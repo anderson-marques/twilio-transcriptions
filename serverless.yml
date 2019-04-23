@@ -23,12 +23,14 @@ provider:
 functions:
   twilio_transcription: # Function name
     handler: handler.transcription # Reference to file handler.js & exported function 'users'
+    memory: 128
     events: # All events associated with this function
       - http: POST /transcriptions
       - trigger: "custom trigger"
     parameters:
       - CLOUDANT_URL: ${env:CLOUDANT_URL}
-      - CLOUDANT_API_KEY: ${env:CLOUDANT_API_KEY}
+        CLOUDANT_API_KEY: ${env:CLOUDANT_API_KEY}
+        CLOUDANT_DB: ${env:CLOUDANT_DB}
 
 # extend the framework using plugins listed here:
 # https://github.com/serverless/plugins

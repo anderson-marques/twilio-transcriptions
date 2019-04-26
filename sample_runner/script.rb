@@ -28,7 +28,41 @@ samples = {
       language: 'en-US',
       file_name: 'TIC5HW_3-DAVID-with-silent.mp3',
       file_id: 'https://drive.google.com/open?id=1p4F_p9ixOalb2Uqbr84xfEsPCRldNvFR'
-    },    
+    },
+    sample_6: {
+      language: 'pt-BR',
+      file_name: 'TIC5HW_1-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1ByLecM2b20wEw35TZI_Vz01S5q5HwA7o'
+    },
+    sample_7: {
+      language: 'pt-BR',
+      file_name: 'TIC5HW_2-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1VClNRIz4W55Uh0bl5sf8UMYlgxIGFUWU'
+    }
+  },
+  tk5x10: {
+    sample_1: {
+      language: 'pt-BR',
+      file_name: 'TK5X10-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1p4E4_0J7cqtyrs9WNwzflwCL6UJWjWop'
+    }
+  },
+  tk1118: {
+    sample_1: {
+      language: 'pt-BR',
+      file_name: 'TK1118-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1V4MTZq1Y0ds7sMh10Q_kInJA781U7rmQ'
+    },
+    sample_2: {
+      language: 'pt-BR',
+      file_name: 'TK1118_2-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1i45Yf5Ypo6J8YKs623WZ0bDKm-yJeTGU'
+    },
+    sample_3: {
+      language: 'pt-BR',
+      file_name: 'TK1118_3-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1jP4fj_lFMiSmR7bMMQ4aRSBlcDISP_sT'
+    },
   },
   tp1549: {
     sample_1: {
@@ -61,6 +95,21 @@ samples = {
       file_name: 'TP1549_3.mp3',
       file_id: 'https://drive.google.com/open?id=1xsIfhF7CmWUGm2kNfABlhQJTRuit9YFm'
     },
+    sample_7: {
+      language: 'pt-BR',
+      file_name: 'TP1549_1-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1h0e3Ffjwr2fx-LKuCGM2AElQRX81fmK5'
+    },
+    sample_8: {
+      language: 'pt-BR',
+      file_name: 'TP1549_2-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=14fuhktW64XGaMyODzfydY4GiXwPdJx8A'
+    },
+    sample_9: {
+      language: 'pt-BR',
+      file_name: 'TP1549_3-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1_tdxwYSRh7JhDaXZFq1q8ucwqULgXyrR'
+    }
   },
   tp1927: {
     sample_1: {
@@ -93,6 +142,38 @@ samples = {
       file_name: 'TP1927_3.mp3',
       file_id: 'https://drive.google.com/open?id=1KcZ8-Y5GK-pWlAPDQfzjrzQLRZSSaq11'
     },
+    sample_7: {
+      language: 'pt-BR',
+      file_name: 'TP1927_1-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1ju-pIqAsiRRSenbWLoQl2CPnv52OXFwv'
+    },
+    sample_8: {
+      language: 'pt-BR',
+      file_name: 'TP1927_2-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1U1OQBI4jiZPm0Sbpu4FlYy4sd57PZ0O_'
+    },
+    sample_9: {
+      language: 'pt-BR',
+      file_name: 'TP1927_3-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1WSvckzlYSPABoPAMaIfp5dhbNTscXeBh'
+    },
+  },
+  tp6664: {
+    sample_1: {
+      language: 'pt-BR',
+      file_name: 'TP6664_1-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1iTiC2aVUuqMiRccEfzMwoMDJAn69c7gO'
+    },
+    sample_2: {
+      language: 'pt-BR',
+      file_name: 'TP6664_2-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=11GPv7cBhzTSbqJ8Lv3D4gRzrYVkhLca4'
+    },
+    sample_3: {
+      language: 'pt-BR',
+      file_name: 'TP6664_3-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1VBedfIM-vkiDcw4byCsPNPlwuoUuvh9X'
+    },
   },
   vvhb8m: {
     sample_1: {
@@ -119,6 +200,18 @@ samples = {
       language: 'en-US',
       file_name: 'VVHB8M_3-DAVID-with-silent.mp3',
       file_id: 'https://drive.google.com/open?id=1U1_PxVlds4E18RHQUkM2pkqhOGsTPlt_'
+    },
+    sample_6: {
+      language: 'pt-BR',
+      file_name: 'VVHB8M-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1Ib7Drax8QPKRVHm5c1NfGwc4gqbqgkoJ'
+    },
+  },
+  vvhb8b: {
+    sample_1: {
+      language: 'pt-BR',
+      file_name: 'VVHB8B-ptBR.mp3',
+      file_id: 'https://drive.google.com/open?id=1dAoGiDpyQ3zCeDMXLJuA8dPVGgVNcZzA'
     },
   }
 }

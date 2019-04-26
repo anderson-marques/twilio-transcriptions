@@ -25,7 +25,7 @@ functions:
     handler: handler.transcription # Reference to file handler.js & exported function 'users'
     memory: 128
     events: # All events associated with this function
-      - http: POST /transcriptions
+      - http: GET /transcriptions
       - trigger: "custom trigger"
     parameters:
       - CLOUDANT_URL: ${env:CLOUDANT_URL}

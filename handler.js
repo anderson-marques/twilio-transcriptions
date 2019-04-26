@@ -11,7 +11,8 @@ function hello(params) {
     const cloudantApiKey = process.env.CLOUDANT_API_KEY || envParameters.CLOUDANT_API_KEY
     const cloudantDatabase = process.env.CLOUDANT_DB || envParameters.CLOUDANT_DB
     const cloudant = createCloudantConnection(cloudantUrl, cloudantApiKey)
-    cloudant.db.use(cloudantDatabase).insert(params.document).then((insertResult)=> {
+
+    cloudant.db.use(cloudantDatabase).insert({ transcription: params.SpeechResult, time: new Date().getTime() }).then((insertResult)=> {
       resolve(insertResult)
     }).catch((err)=>{
       reject(err)

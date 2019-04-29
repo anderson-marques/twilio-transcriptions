@@ -203,17 +203,17 @@ samples = {
       file_id: 'https://drive.google.com/open?id=1WSvckzlYSPABoPAMaIfp5dhbNTscXeBh'
     },
     sample_10: {
-      language: 'pt-pt',
+      language: 'pt-PT',
       file_name: 'TP1927_1-ptPT.mp3',
       file_id: 'https://drive.google.com/open?id=1jYoc6gvy0rpA2_RW7bDl9UazlmcKsOb3'
     },
     sample_11: {
-      language: 'pt-pt',
+      language: 'pt-PT',
       file_name: 'TP1927_2-ptPT.mp3',
       file_id: 'https://drive.google.com/open?id=1bz3w0U0yYRXDkW8WxFuzRfd6SPIh41lW'
     },
     sample_12: {
-      language: 'pt-pt',
+      language: 'pt-PT',
       file_name: 'TP1927_3-ptPT.mp3',
       file_id: 'https://drive.google.com/open?id=1t9wU9yvizLCeG7KD4t0cT1e5gxj7abvj'
     },
